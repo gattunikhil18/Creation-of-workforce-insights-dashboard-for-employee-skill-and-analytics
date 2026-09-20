@@ -123,7 +123,7 @@ Module-specific documentation:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sanjay-22-bhargav/Creation-of-Workforce-Insights-Dashboard-for-Employee-Skill-and-Analytics.git
+git clone https://github.com/gattunikhil18/Creation-of-Workforce-Insights-Dashboard-for-Employee-Skill-and-Analytics.git
 cd Creation-of-Workforce-Insights-Dashboard-for-Employee-Skill-and-Analytics
 ```
 
@@ -253,4 +253,4 @@ See [LICENSE](./LICENSE) for the applicable license terms.
 
 ## 👤 Author
 
-**Sanjay Bhargav** · [GitHub profile](https://github.com/sanjay-22-bhargav)
+**GATTU NIKHIL** · [GitHub profile](https://github.com/gattunikhil18)
